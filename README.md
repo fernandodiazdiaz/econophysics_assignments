@@ -1,6 +1,6 @@
 # Econophysics assignments
 
-This repository contains a curated collection of Jupyter notebooks designed as assignments for the elective course Econophysics in the Physics degree at the University of the Balearic Islands. These notebooks are based upon those created by Àlex Giménez Romero, avaliable in: Giménez Romero, Adrià. econophysics-UIB. GitHub, 7 May 2025, https://github.com/agimenezromero/econophysics-UIB.
+This repository contains a curated collection of Jupyter notebooks designed as assignments for the elective course Econophysics in the Physics degree at the University of the Balearic Islands. These notebooks are based upon those created by Àlex Giménez Romero, avaliable in: Giménez Romero, Àlex. econophysics-UIB. GitHub, 7 May 2025, https://github.com/agimenezromero/econophysics-UIB.
 
 
 The notebooks aim to introduce students to the mathematical modeling and data analysis techniques commonly used in financial markets. Topics include:
